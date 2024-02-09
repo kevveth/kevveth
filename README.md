@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Ken (@kevveth)
-- 🌱 Aspiring computer science student
-- 📱 Interested in mobile development
+- 🌱 Aspiring iOS Developer
+- 📱 Interested in Apple technologies
 - 🌐 I’m looking to connect and work with others!
 
 <!---
