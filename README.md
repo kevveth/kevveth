@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Ken (@kevveth)
-- 🌱 Aspiring iOS Developer
-- 📱 Interested in Apple technologies
+- 🤠 iOS Developer & Skateboarder
+- 🍎 Interested in Apple technologies
 - 🌐 I’m looking to connect and work with others!
 
 <!---
